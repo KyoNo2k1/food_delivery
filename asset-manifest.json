@@ -1,7 +1,7 @@
 {
   "main.css": "/food_delivery/static/css/main.e82cb31c.chunk.css",
-  "main.js": "/food_delivery/static/js/main.a70e0392.chunk.js",
-  "main.js.map": "/food_delivery/static/js/main.a70e0392.chunk.js.map",
+  "main.js": "/food_delivery/static/js/main.0b6aefc5.chunk.js",
+  "main.js.map": "/food_delivery/static/js/main.0b6aefc5.chunk.js.map",
   "static/js/1.ce3fd46c.chunk.js": "/food_delivery/static/js/1.ce3fd46c.chunk.js",
   "static/js/1.ce3fd46c.chunk.js.map": "/food_delivery/static/js/1.ce3fd46c.chunk.js.map",
   "runtime~main.js": "/food_delivery/static/js/runtime~main.33d63c73.js",
@@ -19,6 +19,6 @@
   "static/media/contactImg.png": "/food_delivery/static/media/contactImg.1501f540.png",
   "static/css/main.e82cb31c.chunk.css.map": "/food_delivery/static/css/main.e82cb31c.chunk.css.map",
   "index.html": "/food_delivery/index.html",
-  "precache-manifest.4e798f742f87becb5fb9ad75d070ad7a.js": "/food_delivery/precache-manifest.4e798f742f87becb5fb9ad75d070ad7a.js",
+  "precache-manifest.3358e7b5e7ea1179ce9bf29f15fa2929.js": "/food_delivery/precache-manifest.3358e7b5e7ea1179ce9bf29f15fa2929.js",
   "service-worker.js": "/food_delivery/service-worker.js"
 }
