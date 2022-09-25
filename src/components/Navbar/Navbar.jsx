@@ -26,7 +26,7 @@ const Navbar = () => {
       style={{ justifyContent: "space-between", display: "flex" }}
     >
       <Box style={{ margin: "17px 25px" }}>
-        <img src={ImageLogo} alt="Logo" width={104} height={52} />
+        <img src={ImageLogo} alt="Logo" width={206} height={102} />
       </Box>
       <Box sx={{ display: { md: "none" }, m: 3 }}>
         <MenuIcon fontSize="large" />
